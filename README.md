@@ -30,6 +30,6 @@ flutter pub get
 flutter run
 ```
 ##🛠️ Tech Stack
-*Language: Dart
-*Framework: Flutter
-*State Management: Provider
+1. **Language: Dart**
+2.**Framework: Flutter**
+3.**State Management: Provider**
